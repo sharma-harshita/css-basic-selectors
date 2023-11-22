@@ -1,0 +1,21 @@
+/* h1{
+    color: red;
+} */
+
+#heading-identifier{
+    color: pink;
+}
+
+
+/* 
+*{
+    color: green;
+}  */
+
+.heading{
+    color: blue;
+} 
+
+.heading2{
+    background-color: yellow;
+}
